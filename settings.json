@@ -1,0 +1,15 @@
+{
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 0,
+    // "[markdown]": {
+    //    "editor.quickSuggestions": false
+    // },
+    "editor.tabCompletion": "on"
+
+    // https://github.com/Microsoft/vscode/issues/28215#issuecomment-423098442
+    "editor.quickSuggestions": false,
+    // "editor.suggestOnTriggerCharacters": false,
+    "editor.tabCompletion": "on",
+    // "emmet.triggerExpansionOnTab": true,
+}
